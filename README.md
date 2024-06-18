@@ -1,4 +1,4 @@
-# Active Directory User Account Automation with PowerShell
+# Active Directory User Account Automation w/ PowerShell
 <div align="center">
     <img src="https://github.com/SamHaze/Automating-AD/assets/131014255/eee32d10-00ef-4f5f-8830-4c75aff2bfa3" width="440" />
 </div>
